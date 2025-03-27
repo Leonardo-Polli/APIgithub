@@ -27,6 +27,9 @@ Exemplo de requisição:
 
 GET http://localhost:3000/github/followers?username=octocat
 
+Licença
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para mais detalhes.
+
 
 Exemplo de resposta:
 
@@ -41,6 +44,5 @@ Exemplo de resposta:
   "createdAt": "2011-01-25T18:44:36Z"
 }
 
-Licença
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para mais detalhes.
+
 
